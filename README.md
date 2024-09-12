@@ -8,7 +8,7 @@ plotCDS("/home/gaurav/Desktop/final_code_push/multi.gff",
                  "/home/gaurav/Desktop/final_code_push/multi.txt")
 ```
 
-Gaurav \
+Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
